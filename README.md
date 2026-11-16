@@ -1,3 +1,4 @@
+<img width="1034" height="470" alt="Screenshot 2026-11-16 162259" src="https://github.com/user-attachments/assets/de930240-2447-4bc0-8399-d8d9bce7a100" />
 # Supermarket Sales Analysis Dashboard 📊| Excel🧑‍💻
 
 ## Project Overview
